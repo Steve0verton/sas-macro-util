@@ -53,4 +53,8 @@ Additional properties such as last modified timestamps, authorship and revision 
 
 # General Notes
 
-* Macros were built starting from SAS version 9.2.  All macros should be compatible with SAS versions 9.2 and later.  
+* Macros were built starting from SAS version 9.2.  All macros should be compatible with SAS versions 9.2 and later.
+
+# Author
+
+ - [Steve Overton](https://www.linkedin.com/in/overton/)
